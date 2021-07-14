@@ -1,3 +1,2 @@
 # Marketing_Analysis_Python
-Dashapp
-aa
+Dashboard using plotly and dash libraries
